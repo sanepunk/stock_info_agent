@@ -1,0 +1,4 @@
+google-adk
+requests
+fastapi        # or FastAPI for web_demo
+python-dotenv
